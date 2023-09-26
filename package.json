@@ -1,0 +1,41 @@
+{
+  "name": "api-scrapper-to-db",
+  "version": "1.0.0",
+  "description": "Node Js API Scrapper then insert it to database, to ease your work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekkymulia/JS-Api-Scrapper-To-DB.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "node",
+    "js",
+    "api",
+    "scrapper",
+    "api",
+    "scrapper",
+    "api",
+    "scrapper",
+    "to",
+    "db",
+    "ekky",
+    "mulia",
+    "ekky",
+    "mulia",
+    "lasardi"
+  ],
+  "author": "ekkymulia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekkymulia/JS-Api-Scrapper-To-DB/issues"
+  },
+  "homepage": "https://github.com/ekkymulia/JS-Api-Scrapper-To-DB#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
